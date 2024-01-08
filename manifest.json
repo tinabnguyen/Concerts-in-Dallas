@@ -1,0 +1,11 @@
+{
+    "name": "Upcoming Concerts in Dallas",
+    "version": "1.0.0",
+    "description": "Finds upcoming concerts in Dallas.",
+    "manifest_version": 3,
+    "author": "Tina Nguyen",
+    "action": {
+        "default_popup": "index.html",
+        "default_title": "Upcoming Concerts in Dallas"
+    }
+}
